@@ -1,0 +1,25 @@
+{
+  "name": "section-17-2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spannaccini/formation-section-19-mars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spannaccini/formation-section-19-mars/issues"
+  },
+  "homepage": "https://github.com/spannaccini/formation-section-19-mars#readme",
+  "description": ""
+}
